@@ -1,0 +1,20 @@
+body{
+	
+background-color: #F7FE2E;
+
+font-family:"helvetica",arial;
+
+}
+#contenido
+{
+	
+width: 960px;
+margin: 0, auto;
+
+
+}
+nav ul li 
+{
+display:inline-block;
+
+}

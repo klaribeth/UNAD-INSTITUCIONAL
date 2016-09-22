@@ -1,0 +1,53 @@
+body{
+	
+background-color: #F7FE2E;
+font-family:"helvetica",arial;
+}
+
+#contenido
+{
+	
+width: 960px;
+margin: 100px;
+text-align: center;
+margin-left: 100px
+}
+     h1
+     {
+     	color: #0000FF;
+     	margin-left: 4em;
+     	margin-top 0px;
+     	
+     }
+            h2 
+            {
+            	color: #0000FF;
+                margin-left: 320px;	
+            }
+
+            p
+            {
+            	   margin-left: 350px
+
+            }
+  nav ul li 
+{
+
+display:inline-block;
+margin-right: 1em;
+cursor: pointer;
+margin-top: auto;
+margin-left:60px
+}
+#textopri
+{
+	width: 600px;
+	height: 300px;
+	margin:200px;
+	text-align: left;
+	 margin-left: 100px;
+     margin-top: 20px;
+     border-radius: 30px;
+     padding: 20px;
+
+}
